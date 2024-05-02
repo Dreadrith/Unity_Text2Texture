@@ -7,5 +7,8 @@ Easily generate a Normal Map, Mask, Custom Text Texture or a Material from given
 - Customizable text styles and fonts.
 - Support for various texture resolutions.
 
+![image](https://i.imgur.com/L0jbXrl.png)
+![image](https://i.imgur.com/M4f4DAd.png)
+
 ### Thank you
 If you enjoy Unity_Text2Texture, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
