@@ -9,8 +9,8 @@ on:
 env:
   packageName: "com.dreadscripts.text2texture"
   packagePath: "Packages/com.dreadscripts.text2texture"
-  packageFileName: "Unity_Text2Texture"
-  packageReleaseName: "Unity_Text2Texture"
+  packageFileName: "Text2Texture"
+  packageReleaseName: "Text2Texture"
 
 permissions:
   contents: write
