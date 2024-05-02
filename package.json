@@ -1,0 +1,16 @@
+{
+  "name": "com.dreadscripts.text2texture",
+  "displayName": "DreadScripts - Unity_Text2Texture",
+  "version": "1.0.0",
+  "description": "Easily generate a Normal Map, Mask, Custom Text Texture or a Material from given text input.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://www.dreadrith.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}
