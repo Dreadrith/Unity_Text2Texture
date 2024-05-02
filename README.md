@@ -1,6 +1,8 @@
 # Text2Texture
 Easily generate a Normal Map, Mask, Custom Text Texture or a Material from given text input
 
+### [Download From Here](https://vpm.dreadscripts.com/)
+
 ## Requires TextMeshPro!
 Window > Package Manager > TextMeshPro. When prompted, Import TMP Essentials.
 
