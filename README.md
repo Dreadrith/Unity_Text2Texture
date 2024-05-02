@@ -1,4 +1,4 @@
-# Unity_Text2Texture
+# Text2Texture
 Easily generate a Normal Map, Mask, Custom Text Texture or a Material from given text input
 
 ## Features
@@ -22,4 +22,4 @@ Done!
 ![image](https://cdn.discordapp.com/attachments/1096063656447459490/1096063656632000512/brandeded.gif?ex=66343d13&is=6632eb93&hm=1decea93481aaa9b076fb86306b85d99616bbe21872ba82c8e5e9512074bc2f7&)
 
 ### Thank you
-If you enjoy Unity_Text2Texture, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy Text2Texture, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
