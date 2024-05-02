@@ -9,7 +9,7 @@ using TMPro;
 using UnityEditor;
 using Object = UnityEngine.Object;
 
-namespace TextToTexture
+namespace DreadScripts.TextToTexture
 {
     public class TextToTexture : EditorWindow
     {
@@ -85,7 +85,7 @@ namespace TextToTexture
         }
         #endregion
 
-        [MenuItem("DreadTools/Utilities/Text2Texture")]
+        [MenuItem("DreadTools/Utility/Text2Texture")]
         public static void showWindow()
         {
             var title = GetWindow<TextToTexture>(false, "Text2Texture", true).titleContent;
