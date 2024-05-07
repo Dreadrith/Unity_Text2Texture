@@ -1,7 +1,7 @@
 {
   "name": "com.dreadscripts.text2texture",
   "displayName": "DreadScripts - Text2Texture",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily generate a Normal Map, Mask, Custom Text Texture or a Material from given text input.",
   "gitDependencies": {},
   "vpmDependencies": {},
